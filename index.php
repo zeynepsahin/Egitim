@@ -18,9 +18,9 @@ function asalSayiMi($sayi){
 
 $sayi = 17;
 if(asalSayiMi($sayi)){
-    echo $sayi . "sayısı asaldır";
+    echo $sayi . " " . "sayısı asaldır";
 
 }else{
-    echo $sayi . "sayısı asal değildir";
+    echo $sayi . " " . "sayısı asal değildir";
 }
 
